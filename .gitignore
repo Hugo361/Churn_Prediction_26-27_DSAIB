@@ -1,5 +1,8 @@
-# Dataset
-data/
+# Ignore all files in Data/
+data/*
+
+# Except .gitkeep
+!data/.gitkeep
 
 # Mac
 .DS_Store
